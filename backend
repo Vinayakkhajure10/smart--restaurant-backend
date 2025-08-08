@@ -1,0 +1,7 @@
+cd backend/
+git init
+git remote add origin
+https://github.com/Vinayakkhajure10/smart--restaurant-backend.git
+git add .
+git commit -m "Initial backend commit"
+git push -u origin master
